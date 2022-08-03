@@ -1,3 +1,5 @@
 # Virus Painting
-`pip install turtle`
+```
+pip install turtle
+```
 Python program to painting a Virus with turtle library

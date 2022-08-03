@@ -1,7 +1,11 @@
 ## System Information
-`pip install requests`
+```
+pip install requests
+```
 Then
-`import requests, platform, cpuinfo`
+```python
+import requests, platform, cpuinfo
+```
 
 Python program to get system information and send to your telegram bot
 
